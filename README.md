@@ -1,2 +1,2 @@
 # longbug_util
-simple_package
+a simple package
